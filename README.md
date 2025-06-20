@@ -13,7 +13,7 @@
 
 - 🌐 Персональный сайт: [akozadaev.ru](https://akozadaev.ru)
 - 🏢 LinkedIn: [Алексей Козадаев](https://www.linkedin.com/in/алексей-козадаев-a03b1842/)
-- 🏢 LinkedIn: [akozadaev] (https://vk.ru/akozadaev)
+- 🏢 LinkedIn: [akozadaev](https://vk.ru/akozadaev)
 - 📧 Почта: указана на сайте
 
 ---
