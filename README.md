@@ -33,6 +33,7 @@
 | 📁 Репозиторий | 📄 Описание |
 |---------------|------------|
 | [go_shortiner](https://github.com/akozadaev/go_shortiner) | Сервис сокращения ссылок на Go |
+| [go_oauth2_server](https://github.com/akozadaev/go_oauth2_server) | OAuth2 Server на Go 1.23.4 |
 | [go_news_server](https://github.com/akozadaev/go_news_server) | Микросервис новостей (Go, PostgreSQL) |
 | [symfony_quick](https://github.com/akozadaev/symfony_quick) | Быстрый старт проекта на Symfony |
 | [python_akozadaev_training_bot](https://github.com/akozadaev/python_akozadaev_training_bot) | Telegram-бот с учебными функциями |
