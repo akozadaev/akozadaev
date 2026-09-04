@@ -1,9 +1,9 @@
 # Алексей Козадаев
 
-### Backend-разработчик | Преподаватель
+### Golang backend-разработчик | Преподаватель
 
-Привет! Меня зовут Алексей Козадаев. Я инженер-программист из Тамбова с коммерческим опытом работы в IT с 2013 года.  
-Работал как разработчиком, так и руководителем, занимаюсь проектированием архитектур, разработкой микросервисов и преподаванием.
+Привет! Меня зовут Алексей Козадаев. Я Golang backend-разработчик из Тамбова с коммерческим опытом работы в IT с 2013 года.
+Работал как разработчиком, так и руководителем. Мой основной фокус — проектирование и разработка backend-систем и микросервисов на Go, а также преподавание.
 
 Этот GitHub-профиль — демонстрация моих подходов, учебных наработок и технических экспериментов. Некоторые репозитории написаны «на коленке» - в рамках лекций и курсов. Более строго структурированные проекты сопровождаются тестами и документацией.
 
@@ -11,20 +11,24 @@
 
 ### 🚀 Основное
 
-- 🌐 Персональный сайт: [akozadaev.ru](https://akozadaev.ru)
 - 🏢 LinkedIn: [Алексей Козадаев](https://www.linkedin.com/in/алексей-козадаев-a03b1842/)
 - 🏢 VK: [akozadaev](https://vk.ru/akozadaev)
-- 📧 Почта: указана на сайте
 
 ---
 
 ### 🛠️ Навыки
 
-- **Языки:** PHP, Go, Python, SQL, Java
+- **Языки:** Go, SQL; также работаю с PHP, Python и Java
 - **Базы данных:** PostgreSQL, MySQL, Oracle
-- **Фреймворки:** Symfony, Laminas, Spring Boot, Fiber (Go), Gin (Go)
-- **Инфраструктура:** Docker, CI/CD, Git
-- **Прочее:** REST API, микросервисная архитектура, проектирование систем, преподавание
+- **Go-стек:** Fiber, Gin, net/http, GORM, Wire, Cobra
+- **Инфраструктура:** Docker, CI/CD, Git, Redis, Elasticsearch
+- **Прочее:** REST API, gRPC, микросервисная архитектура, проектирование систем, тестирование, преподавание
+
+---
+
+### 💼 Коммерческий опыт
+
+В рабочем проекте разрабатываю и развиваю production backend на Go: проектирую API и модули приложения, работаю с MySQL и Redis, фоновыми задачами, наблюдаемостью и автоматизацией тестирования. Детали проекта не раскрываю из-за NDA.
 
 ---
 
@@ -34,9 +38,7 @@
 |---------------|------------|
 | [go_shortiner](https://github.com/akozadaev/go_shortiner) | Сервис сокращения ссылок на Go |
 | [go_oauth2_server](https://github.com/akozadaev/go_oauth2_server) | OAuth2 Server на Go 1.23.4 |
-| [go_news_server](https://github.com/akozadaev/go_news_server) | Микросервис новостей (Go, PostgreSQL) |
-| [symfony_quick](https://github.com/akozadaev/symfony_quick) | Быстрый старт проекта на Symfony |
-| [python_akozadaev_training_bot](https://github.com/akozadaev/python_akozadaev_training_bot) | Telegram-бот с учебными функциями |
+| [go_es_analytical_system](https://github.com/akozadaev/go_es_analytical_system) | Рекомендательная система локаций для бизнеса на Go, Elasticsearch и PostgreSQL |
 | [pg_prewarm](https://github.com/akozadaev/pg_prewarm) | Разогрев PostgreSQL кэш-памяти |
 | [librarySpring](https://github.com/akozadaev/librarySpring) | Простое Spring-приложение — библиотека |
 
@@ -50,7 +52,7 @@
 
 ### 📫 Связь
 
-Если у тебя есть вопросы, предложения или хочешь пообщаться — напиши через форму на [сайте](https://akozadaev.ru) или в LinkedIn.
+Если у тебя есть вопросы, предложения или хочешь пообщаться — напиши мне в [LinkedIn](https://www.linkedin.com/in/алексей-козадаев-a03b1842/) или [VK](https://vk.ru/akozadaev).
 
 ---
 
