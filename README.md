@@ -34,16 +34,15 @@
 
 ### 📌 Некоторые репозитории
 
-| 📁 Репозиторий | 📄 Описание |
-|---------------|------------|
-| [go_shortiner](https://github.com/akozadaev/go_shortiner) | Сервис сокращения ссылок на Go |
-| [go_oauth2_server](https://github.com/akozadaev/go_oauth2_server) | OAuth2 Server на Go 1.23.4 |
-| [go_es_analytical_system](https://github.com/akozadaev/go_es_analytical_system) | Рекомендательная система локаций для бизнеса на Go, Elasticsearch и PostgreSQL |
-| [pg_prewarm](https://github.com/akozadaev/pg_prewarm) | Разогрев PostgreSQL кэш-памяти |
-| [librarySpring](https://github.com/akozadaev/librarySpring) | Простое Spring-приложение — библиотека |
+| 📁 Репозиторий | 📄 Описание                                                                                                                                                                                                                                                                                                                          |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Guardian](https://github.com/akozadaev/guardian) | Контролируемый исходящий HTTP/HTTPS-прокси на Go и fasthttp. Реализует HTTP forwarding и CONNECT tunneling, декларативный filter engine, SSRF-защиту, JWT/RBAC, rate limiting и Admin REST API. Для хранения и кэширования используются PostgreSQL и Redis; предусмотрены Prometheus, health/readiness checks, Docker Compose и CI. Проект демонстрирует работу с сетевым программированием, безопасностью, конкурентным доступом, динамическими политиками и наблюдаемостью. |
+| [Аналитическая система рекомендаций](https://github.com/akozadaev/go_es_analytical_system) | Сервис поиска и рекомендации локаций для бизнеса на основе OpenSearch. Анализирует трафик, конкурентное окружение и демографические показатели. Демонстрирует проектирование поисковой и аналитической системы, построение запросов и ранжирование результатов. |
+| [OAuth2 Server](https://github.com/akozadaev/go_oauth2_server) | OAuth2-сервер на Go и PostgreSQL, реализующий основные grant flows RFC 6749: Authorization Code, Client Credentials, Resource Owner Password Credentials и Refresh Token. В проекте также реализованы JWT, token introspection, миграции, health checks, Prometheus/Grafana и Docker Compose. |
+
+Все перечисленные проекты разработаны мной лично. Код коммерческих проектов не публикую из-за условий NDA. Остальные репозитории GitHub включают учебные примеры, подготовленные в рамках преподавательской деятельности.
 
 ---
-
 ### 🎓 Обучение и преподавание
 
 Я веду лекции и курсы по backend-разработке и архитектуре ПО. Некоторые учебные наработки доступны в этом профиле.
